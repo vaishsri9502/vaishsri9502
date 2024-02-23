@@ -14,7 +14,3 @@
 - 💬 Ask me about **Frontend Developement**
 
 - 📫 Connect me at 👉 **vaishnaviaditya.245@gmail.com**
-- 
-
-   <!---Fun fact **Talk is cheap!! Show me the code!** -->
-- ⚡ **Talk is cheap!! Show me the code! **

@@ -13,4 +13,4 @@
 
 - 💬 Ask me about **Frontend Developement**
 
-- 📫 Connect me at 👉 **vaishnaviaditya.245@gmail.com**
+- 📫 Connect me at 👉 **vaishnavi.plusnineonemedia@gmail.com**
